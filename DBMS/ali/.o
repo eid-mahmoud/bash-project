@@ -1,0 +1,4 @@
+Name|Type|key
+id|int|true
+name|str|false
+age|int|false
